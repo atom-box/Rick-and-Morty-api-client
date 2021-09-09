@@ -1,0 +1,26 @@
+{
+  "name": "clientforrickandmortyapi",
+  "version": "1.0.0",
+  "description": "A client, just for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom-box/Rick-and-Morty-api-client.git"
+  },
+  "keywords": [
+    "client",
+    "api"
+  ],
+  "author": "Evan Genest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atom-box/Rick-and-Morty-api-client/issues"
+  },
+  "homepage": "https://github.com/atom-box/Rick-and-Morty-api-client#readme",
+  "dependencies": {
+    "rickmortyapi": "^1.0.0"
+  }
+}
